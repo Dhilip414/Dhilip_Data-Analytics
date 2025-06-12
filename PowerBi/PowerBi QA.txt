@@ -1,0 +1,11 @@
+
+=== > Data modelling purpose
+
+=== > Purpose of using the Performance analyser
+
+
+=== > Query dignostics 
+
+
+=== > 
+
